@@ -1,6 +1,10 @@
 # Leetcode-Questions-Analysis
 
 
+![leetcode analysis image](https://github.com/user-attachments/assets/fc402258-14ab-4753-aa27-e345ded6cf4f)
+
+
+
 The LeetCode Question Analysis is a Python-based project designed to help users analyze and gain insights into LeetCode problems. It allows users to track, categorize, and evaluate their progress, identify patterns in problem-solving, and optimize the preparation.
 
 
